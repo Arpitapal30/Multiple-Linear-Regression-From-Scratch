@@ -1,10 +1,10 @@
 # Multiple-Linear-Regression-From-Scratch
 
-​Steps for Implementation
+​1. Steps for Implementation
 Prepare the Data: Ensure data is in matrix form.
 Compute OLS Estimates: Use the closed-form equation
 β^ =(X^T X)^−1 X^T Y
-Make Predictions
+2. Make Predictions
 Y^=X β^
 Evaluate the Model: Compute R² Score and Mean Squared Error (MSE).
 fit(X, y): Computes 𝛽 using the Normal Equation.
